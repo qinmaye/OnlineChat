@@ -37,8 +37,7 @@ class WelcomePage extends Component {
       return (
         <div style={{display: 'flex', justifyContent: 'center', flexDirection: 'column'}}>
           <header style={{textAlign: 'center'}}>
-            <p>Welcome to React Redux Socket.io Chat</p>
-            <p>This is an open source chat program.</p>
+            <p>This is Maye's test chat channel.</p>
           </header>
           <main>
           <form>
@@ -72,9 +71,9 @@ class WelcomePage extends Component {
     return (
       <div>
         <header style={{display: 'flex', justifyContent: 'center', flexGrow: '0', order: '0'}}>
-          <div style={{justifyContent: 'center'}}><p style={{fontSize: '1.5em', marginRight: '1em'}}>Welcome to React Redux Socket.io Chat</p>
+          <div style={{justifyContent: 'center'}}><p style={{fontSize: '1.5em', marginRight: '1em'}}></p>
            <p>
-          This is an open source chat program.
+           This is Maye's test chat channel.
           </p>
           </div>
         </header>
